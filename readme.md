@@ -1,0 +1,2 @@
+﻿OOP
+Zadanie: Pierwsza klasa
